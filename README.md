@@ -74,7 +74,6 @@ desenvolvimento.
    - Opção para solicitar estudos bíblicos
 
 5. **Contato e Localização**
-   - Formulário de contato
    - Mapa integrado do Google
    - Informações de localização
    - Links para redes sociais
